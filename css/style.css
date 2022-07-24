@@ -2,5 +2,5 @@ body {
   font-family: arial;
 }
 marquee {
-  background-size: 100%;
+  padding: 0;
 }
