@@ -1,8 +1,9 @@
 body {
-  font-family: arial;
+  background-color: #393939;
+  font-family: "Lucida Console";
   margin: 0px;
 }
 marquee {
-  text-color: white;
   background-color: #AA91D9;
+  color: white;
 }
