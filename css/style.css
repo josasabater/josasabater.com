@@ -4,6 +4,10 @@ body {
   color: #9F9ADF;
   margin: 0px;
 }
+h1 {
+  margin-top: 0px;
+  margin-left: 5px;
+}
 marquee {
   background-color: #9F9ADF;
   color: #393939;
