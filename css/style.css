@@ -1,5 +1,7 @@
 body {
   font-family: arial;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 marquee {
   display: flex;
