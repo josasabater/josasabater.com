@@ -4,4 +4,6 @@ body {
 marquee {
   padding: 0px;
   margin: 0px;
+  font-size: 100%;
+  vertical-align: baseline;
 }
