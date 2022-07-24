@@ -3,5 +3,6 @@ body {
   margin: 0px;
 }
 marquee {
-  background-color: "#AA91D9";
+  text-color: white;
+  background-color: #AA91D9;
 }
