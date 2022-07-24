@@ -2,3 +2,6 @@ body {
   font-family: arial;
   margin: 0px;
 }
+marquee {
+  background-color: "#AA91D9";
+}
