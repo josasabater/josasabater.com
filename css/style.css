@@ -1,14 +1,14 @@
 body {
-  margin: 0px;
+  margin-top: 0px;
   font-family: arial;
 }
 h1 {
-  margin: 0px;
+  margin-top: 0px;
 }
 marquee {
   display: flex;
   padding: 0px;
-  margin: 0px;
+  margin-top: 0px;
   font-size: 100%;
   vertical-align: baseline;
 }
