@@ -54,6 +54,7 @@ nav p {
   }
 nav ul {
   float: left;
+  font-size: 32px;
 }
 nav ul li {
   float: left;
@@ -69,6 +70,7 @@ nav ul li ul {
   display: none;
   position: absolute;
   padding: 0px;
+  font-size: 19px;
 }
 nav ul li:hover ul {
   display: block;
