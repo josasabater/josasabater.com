@@ -9,8 +9,32 @@ h1 {
   margin-left: 5px;
   padding-top: 0px;
 }
-marquee {
-  animation: animate 100s linear infinite;
+.marquee-parent {
   background-color: #9F9ADF;
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 30px;
+}
+.marquee-child {
   color: #393939;
+  display: block;
+  width: 147px;
+  /* width of your text div */
+  height: 30px;
+  /* height of your text div */
+  position: absolute;
+  animation: marquee 5s linear infinite; /* change 5s value to your desired speed */
+}
+.marquee-child:hover {
+  animation-play-state: paused;
+  cursor: pointer;
+}
+@keyframes marquee {
+  0% {
+    left: 100%;
+  }
+  100% {
+    left: -147px /* same as your text width */
+  }
 }
