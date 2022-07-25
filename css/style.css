@@ -10,6 +10,7 @@ h1 {
   padding-top: 0px;
 }
 marquee {
+  animation: marquee 100s linear infinite;
   background-color: #9F9ADF;
   color: #393939;
 }
