@@ -13,13 +13,15 @@ h1 {
   background-color: #9F9ADF;
   position: relative;
   width: 100%;
+  height: auto;
   overflow: hidden;
 }
 .marquee-child {
   color: #393939;
   display: block;
-  width: 147px;
+  width: auto;
   /* width of your text div */
+  height: auto;
   /* height of your text div */
   position: absolute;
   animation: marquee 10s linear infinite; /* change 5s value to your desired speed */
