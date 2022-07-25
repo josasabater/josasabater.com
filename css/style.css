@@ -17,6 +17,7 @@ h1 {
   overflow: hidden;
 }
 .marquee-child {
+  margin-top: 1px;
   color: #393939;
   display: block;
   white-space: nowrap;
@@ -25,7 +26,7 @@ h1 {
   height: 18px;
   /* height of your text div */
   position: absolute;
-  animation: marquee 25s linear infinite; /* change 5s value to your desired speed */
+  animation: marquee 20s linear infinite; /* change 5s value to your desired speed */
 }
 @keyframes marquee {
   0% {
