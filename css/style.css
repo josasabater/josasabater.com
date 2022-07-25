@@ -17,7 +17,6 @@ h1 {
   overflow: hidden;
 }
 .marquee-child {
-  margin-top: 1px;
   color: #393939;
   display: block;
   white-space: nowrap;
