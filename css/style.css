@@ -30,7 +30,7 @@ h1 {
   white-space: nowrap;
   width: 10px;
   /* width of your text div */
-  height: 20px;
+  height: 24px;
   /* height of your text div */
   position: absolute;
   animation: marquee 23s linear infinite; /* change 5s value to your desired speed */
