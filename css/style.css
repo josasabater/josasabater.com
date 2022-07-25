@@ -24,11 +24,7 @@ h1 {
   height: 30px;
   /* height of your text div */
   position: absolute;
-  animation: marquee 5s linear infinite; /* change 5s value to your desired speed */
-}
-.marquee-child:hover {
-  animation-play-state: paused;
-  cursor: pointer;
+  animation: marquee 2s linear infinite; /* change 5s value to your desired speed */
 }
 @keyframes marquee {
   0% {
