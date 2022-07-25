@@ -1,7 +1,7 @@
 body {
-  background-color: #393939;
+  background-color: black;
   font-family: "Trebuchet MS";
-  color: #A7A4D0;
+  color: white;
   margin: 0px;
 }
 h1 {
@@ -23,7 +23,7 @@ h1 {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #393939;
+  color: black;
   display: block;
   letter-spacing: 1px;
   white-space: nowrap;
