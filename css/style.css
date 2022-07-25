@@ -78,8 +78,9 @@ nav ul li:hover ul {
   display: block;
 }
 nav ul li ul li {
+  margin-left: 50px;
   text-align: center;
-  width: 253px;
+  width: 150px;
 }
 nav ul li ul li a {
   padding: 8px 14px;
