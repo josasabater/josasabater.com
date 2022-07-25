@@ -48,6 +48,9 @@ nav p {
 nav ul {
   float: left;
   font-size: 32px;
+  margin-top: 0px;
+  margin-left: 5px;
+  padding: 10px;
 }
 nav ul li {
   float: left;
@@ -59,11 +62,11 @@ nav ul li a {
   padding: 22px 14px;
   text-decoration: none;
   color: inherit;
-  margin-top: 0px;
-  margin-left: 5px;
-  padding-top: 0px;
   font-weight: normal;
   letter-spacing: 1px;
+  padding: 0px;
+  padding-right: 20px;
+  margin: 0px;
 }
 nav ul li ul {
   display: none;
