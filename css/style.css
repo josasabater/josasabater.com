@@ -13,18 +13,19 @@ h1 {
   background-color: #9F9ADF;
   position: relative;
   width: 100%;
-  height: auto;
+  height: 18px;
   overflow: hidden;
 }
 .marquee-child {
   color: #393939;
   display: block;
-  width: auto;
+  white-space: nowrap;
+  width: 10px;
   /* width of your text div */
-  height: auto;
+  height: 18px;
   /* height of your text div */
   position: absolute;
-  animation: marquee 10s linear infinite; /* change 5s value to your desired speed */
+  animation: marquee 8s linear infinite; /* change 5s value to your desired speed */
 }
 @keyframes marquee {
   0% {
