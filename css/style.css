@@ -65,6 +65,7 @@ nav ul li a {
   display: block;
   padding: 22px 14px;
   text-decoration: none;
+  color: inherit;
 }
 nav ul li ul {
   display: none;
