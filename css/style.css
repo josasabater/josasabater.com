@@ -59,7 +59,7 @@ nav ul li {
   position: relative;
 }
 nav ul li a {
-  display: block;
+  display: inline-block;
   padding: 22px 14px;
   text-decoration: none;
   color: inherit;
