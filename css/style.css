@@ -26,7 +26,7 @@ body {
   height: 24px;
   /* height of your text div */
   position: absolute;
-  animation: marquee 23s linear infinite; /* change 5s value to your desired speed */
+  animation: marquee 20s linear infinite; /* change 5s value to your desired speed */
 }
 @keyframes marquee {
   0% {
