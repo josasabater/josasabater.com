@@ -96,3 +96,6 @@ nav ul li ul li a:hover {
   text-decoration: none;
   background-color: #A7A4D0;
 }
+img {
+  max-width: 20%
+}
