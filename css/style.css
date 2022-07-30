@@ -85,8 +85,7 @@ nav ul li:hover ul {
   padding-bottom: 6px;
 }
 nav ul li ul li {
-  margin-left: 50px;
-  text-align: center;
+  margin-left: 75px;
   width: 150px;
 }
 nav ul li ul li a {
