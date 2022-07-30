@@ -1,7 +1,7 @@
 body {
-  background-color: black;
+  background-color: white;
   font-family: "Trebuchet MS";
-  color: #A7A4D0;
+  color: black;
   margin: 0px;
 }
 .marquee-parent {
@@ -17,7 +17,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: black;
+  color: white;
   display: block;
   letter-spacing: 1px;
   white-space: nowrap;
@@ -80,7 +80,7 @@ nav ul li ul {
 }
 nav ul li:hover ul {
   display: block;
-  background-color: black;
+  background-color: white;
   border-radius: 4px;
   padding-bottom: 6px;
 }
@@ -93,10 +93,10 @@ nav ul li ul li a {
   text-decoration: none;
 }
 nav ul li ul li a:hover {
-  color: black;
+  color: white;
   border-radius: 2px;
   text-decoration: none;
-  background-color: #A7A4D0;
+  background-color: black;
 }
 img {
   max-height: 400px;
