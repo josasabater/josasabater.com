@@ -87,7 +87,7 @@ nav ul li:hover ul {
   padding-bottom: 4px;
 }
 nav ul li ul li {
-  margin-left: 75px;
+  margin-left: 88px;
   width: 150px;
 }
 nav ul li ul li a {
@@ -102,5 +102,7 @@ nav ul li ul li a:hover {
 }
 img {
   max-height: 400px;
-  margin-top: 1px;
+  margin-top: 3px;
+  margin-left: 2px;
+  margin-right: 2px;
 }
