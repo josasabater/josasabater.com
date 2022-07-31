@@ -13,7 +13,7 @@ body {
 }
 .marquee-child {
   font-size: 19px;
-  margin-top: 4px;
+  margin-top: 1px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
