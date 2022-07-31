@@ -80,9 +80,10 @@ nav ul li ul {
 }
 nav ul li:hover ul {
   display: block;
+  left: -26px;
   background-color: white;
   border-radius: 4px;
-  padding-bottom: 6px;
+  padding-bottom: 4px;
 }
 nav ul li ul li {
   margin-left: 75px;
