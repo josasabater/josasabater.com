@@ -107,6 +107,12 @@ div.item {
   text-align: center;
   font-size: 10px;
 }
+div.video {
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  font-size: 10px;
+}
 img {
   max-height: 400px;
   margin-top: 3px;
@@ -117,3 +123,8 @@ img {
   margin-top: 4px;
   display: block;
 }
+.videoTitle {
+  margin-top: 4px;
+  display: block;
+}
+
