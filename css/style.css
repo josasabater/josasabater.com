@@ -101,9 +101,17 @@ nav ul li ul li a:hover {
   text-decoration: none;
   background-color: black;
 }
+div.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
 img {
   max-height: 400px;
   margin-top: 3px;
   margin-left: 2px;
   margin-right: 2px;
+}
+.photoDesc {
+    display: block;
 }
