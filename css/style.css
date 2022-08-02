@@ -79,7 +79,7 @@ nav ul li ul {
   padding: 0px;
   font-size: 19px;
 }
-nav ul li:hover ul {
+nav ul li:hover ul, nav ul li ul:hover {
   z-index: 1;
   display: block;
   top: 34px;
