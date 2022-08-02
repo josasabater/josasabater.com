@@ -81,7 +81,7 @@ nav ul li ul {
 }
 nav ul li:hover ul {
   z-index: 1;
-  display: inline-block;
+  display: block;
   top: 34px;
   margin-left: auto;
   margin-right: auto;
@@ -107,7 +107,7 @@ div.item {
   vertical-align: top;
   display: inline-block;
   text-align: center;
-  font-size: 12px;
+  font-size: 16px;
 }
 span.videoTitle {
   padding-top: 8px;
@@ -117,7 +117,7 @@ div.videoText {
   vertical-align: top;
   display: inline-block;
   text-align: center;
-  font-size: 10px;
+  font-size: 16px;
 }
 img {
   max-height: 600px;
