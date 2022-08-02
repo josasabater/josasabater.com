@@ -127,4 +127,8 @@ img {
   margin-top: 4px;
   display: block;
 }
+div.videoGallery {
+  vertical-align: top;
+  display: inline-block;
+}
 
