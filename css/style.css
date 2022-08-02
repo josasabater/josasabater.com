@@ -114,10 +114,10 @@ div.video {
   font-size: 10px;
 }
 img {
-  max-height: 400px;
+  max-height: 600px;
   margin-top: 3px;
-  margin-left: 3px;
-  margin-right: 3px;
+  margin-left: 7px;
+  margin-right: 7px;
 }
 .photoDesc {
   margin-top: 4px;
