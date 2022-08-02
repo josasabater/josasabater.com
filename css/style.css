@@ -109,6 +109,10 @@ div.item {
   text-align: center;
   font-size: 12px;
 }
+span.videoTitle {
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
 div.videoText {
   vertical-align: top;
   display: inline-block;
