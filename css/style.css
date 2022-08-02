@@ -128,7 +128,12 @@ img {
   display: block;
 }
 div.videoGallery {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
   vertical-align: top;
-  display: inline-block;
+  text-align: center;
+  white-space: wrap;
+  display: block;
 }
 
