@@ -143,12 +143,3 @@ div.videoGallery {
   display: block;
   z-index: 1;
 }
-div.offScreen {
-  position: absolute;
-  left: 101px;
-  top: auto;
-  width: 100px;
-  height: 100px;
-  overflow: hidden;
-}
-
