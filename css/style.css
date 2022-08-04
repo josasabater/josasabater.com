@@ -143,3 +143,8 @@ div.videoGallery {
   display: block;
   z-index: 1;
 }
+div.aboutMe {
+  padding-left: 200px;
+  padding-right: 200px;
+  text-align: center;
+}
