@@ -149,3 +149,11 @@ div.aboutMe {
   padding-right: 200px;
   text-align: center;
 }
+div.aboutMe a {
+  color: black;
+}
+div.aboutMe a:hover {
+  color: white;
+  text-decoration: none;
+  background-color: black;
+}
