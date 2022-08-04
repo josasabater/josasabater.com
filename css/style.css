@@ -144,6 +144,7 @@ div.videoGallery {
   z-index: 1;
 }
 div.aboutMe {
+  font-size: 16px;
   padding-left: 200px;
   padding-right: 200px;
   text-align: center;
