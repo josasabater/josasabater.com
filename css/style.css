@@ -9,7 +9,7 @@ body {
   position: relative;
   width: 100%;
   height: 24px;
-  overflow: visible;
+  overflow: hidden;
 }
 .marquee-child {
   font-size: 19px;
