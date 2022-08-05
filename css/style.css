@@ -146,6 +146,7 @@ div.videoGallery {
 div.gallery {
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 20px;
   vertical-align: top;
   text-align: center;
   white-space: wrap;
@@ -179,6 +180,11 @@ img.aboutMe {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+}
+img.iDontRememberYou {
+  max-height: 220px;
+  margin-left: 4px;
+  margin-right: 4px;
 }
 
 
