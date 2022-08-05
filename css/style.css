@@ -120,7 +120,7 @@ div.videoText {
   text-align: center;
   font-size: 16px;
 }
-img {
+img.Art {
   max-height: 600px;
   margin-top: 3px;
   margin-left: 7px;
@@ -158,3 +158,4 @@ div.aboutMe a:hover {
   text-decoration: none;
   background-color: black;
 }
+
