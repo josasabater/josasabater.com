@@ -143,6 +143,15 @@ div.videoGallery {
   display: block;
   z-index: 1;
 }
+div.gallery {
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: top;
+  text-align: center;
+  white-space: wrap;
+  display: block;
+  z-index: 1;
+}
 div.aboutMe {
   font-size: 16px;
   margin-top: 20px;
